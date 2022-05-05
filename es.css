@@ -1,0 +1,14 @@
+body{
+    background-color:blue;
+}
+#mi{
+ position: sticky;
+    max-width: 80%;
+    margin: 210px;
+    max-height: 70%;
+    background-color: snow;
+    font-family: cursive;
+    font-size: 30px;
+      background-color: darkturquoise;
+
+}

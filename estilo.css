@@ -1,0 +1,45 @@
+#miz{
+ position: sticky;
+    width: 350px;
+    margin: 150px;
+    max-height: 70%;
+    background-color: black;
+   
+}
+#art{
+    position: relative;
+    left:250%;
+    top: -20px;
+    max-width: 80%;
+    border-image:url(energia.jpg) 38 round;
+    transform: scale(1,1);
+    transform: rotate(50deg);
+    transform: skewX(10deg);
+    background-color: lawngreen;
+}
+#mi{
+ position: sticky;
+    max-width: 250px;
+    margin: 150px;
+    max-height: 70%;
+   
+}
+#ar{
+    position: relative;
+    left:150%;
+    top: -20px;
+    max-width: 90%;
+    border-image:url(images.jpg) 38 round;
+    transform: scale(1,1);
+    transform: rotate(50deg);
+    transform: skewX(10deg);
+    background-color: mediumspringgreen;
+}
+#cu{
+    width: 900px;
+    height: 600px;
+    background-color: aqua;
+}
+body{
+    background-color: black;
+}
